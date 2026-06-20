@@ -677,3 +677,10 @@ button:hover {
     height: 380px;
   }
 }
+
+.signature {
+  margin-top: 25px;
+  font-size: 1.2rem;
+  font-style: italic;
+  opacity: 0.95;
+}
